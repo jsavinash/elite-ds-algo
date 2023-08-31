@@ -1,1 +1,5 @@
-package algorithms.graph;
+package algorithms.graph.detectcycle;
+
+class HamiltonianCycleAlgorithm {
+
+}

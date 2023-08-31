@@ -1,1 +1,5 @@
-package algorithms.graph;
+package algorithms.graph.connectivity;
+
+class EulerianPathAlgorithm {
+
+}
